@@ -20,8 +20,8 @@
     <img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">  
-    <img width="5%" src="https://afsalv.com/static/cplusplus-original.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
+    <img width="10%" height="60px" src="https://afsalv.com/static/cplusplus-updated.svg">
     <br/>
     <img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">  
@@ -32,6 +32,7 @@
     <img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">  
     <img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg">
+    <img width="10%" height="60px" src="https://afsalv.com/static/raspberrypi.svg">
      <br/>
     <img width="10%" src="https://afsalv.com/static/javafx.png">
     <img width="10%" src="https://afsalv.com/static/realm_db.svg">
