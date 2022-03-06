@@ -15,8 +15,8 @@
 ## Languages and Tools
 
 <p>
-  <img width="45%" align="right" alt="GenuineCoder github stats" src="https://github-readme-stats.vercel.app/api?username=afsalashyana&show_icons=true&theme=dracula" />
-  <p align="center">
+  <img width="45%" align="right" alt="GenuineCoder github stats" src="https://github-readme-stats.vercel.app/api?username=afsalashyana&show_icons=true&hide=contribs,prs,issues&count_private=true&theme=dracula" />
+  <p align="left">
     <img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">  
