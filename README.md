@@ -8,7 +8,7 @@
 ## I'm a full stack developer, engineer, and technophile
 
 - :heart: I love Java and JavaFX!
-- :computer: 11+ years of Desktop and Mobile development experience
+- :computer: 13+ years of Desktop and Mobile development experience
 - :link: You can find more about me in my [portfolio][website]
 
 ## Languages and Tools
