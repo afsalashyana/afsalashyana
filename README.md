@@ -9,7 +9,6 @@
 
 - :heart: I love Java and JavaFX!
 - :computer: 11+ years of Desktop and Mobile development experience
-- 🌱 2022 Goal: Become an expert in web development
 - :link: You can find more about me in my [portfolio][website]
 
 ## Languages and Tools
@@ -26,5 +25,4 @@
 [website]: https://afsalv.com/
 [blog]: https://genuinecoder.com/
 [youtube]: https://www.youtube.com/c/GenuineCoder
-[instagram]: instagram.com/afsalashyana/
 [linkedin]: https://www.linkedin.com/in/muhammedafsalvillan/
